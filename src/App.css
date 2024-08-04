@@ -1,0 +1,6 @@
+/* Ensure that the App component is above the background */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
